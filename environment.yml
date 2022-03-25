@@ -1,0 +1,15 @@
+name: envGoogle
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - jupyterlab
+  - numpy
+  - pandas
+  - matplotlib
+  - scipy
+  - pip
+  - pip:
+    - google-api-python-client
+    - google-auth-httplib2
+    - google-auth-oauthlib
