@@ -14,14 +14,14 @@ Basic dependencies:
 
 All these are automatically installed if using [Anaconda](https://www.anaconda.com/) (this project was developed and tested with Anaconda 3) and generating the environment described in the environment.yml file.
 
-The succo_google_quest set can be downloaded either as a ZIP archive, from the Code drop-down menu [here](https://github.com/mattiasoldani/succo_google_quest), or directly from the terminal (open in your project working directory) via
-```shell
-git clone https://github.com/mattiasoldani/succo_google_quest.git
-```
-Note: the latter requires  [Git](https://git-scm.com/) installed on your machine.
-
 Found a bug? Or simply have any questions, comments or suggestions you'd like to talk about? Feel free to contact me at <mattiasoldani93@gmail.com>. And brace yourself, for the best is yet to come!
 
 ---
 
 ### How it works
+
+The succo_google_quest set can be downloaded either as a ZIP archive, from the Code drop-down menu [here](https://github.com/mattiasoldani/succo_google_quest), or directly from the terminal (open in your project working directory) via
+```shell
+git clone https://github.com/mattiasoldani/succo_google_quest.git
+```
+Note: the latter requires  [Git](https://git-scm.com/) installed on your machine.
