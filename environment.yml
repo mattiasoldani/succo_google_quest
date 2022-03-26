@@ -3,10 +3,7 @@ channels:
   - conda-forge
 dependencies:
   - python
-  - numpy
   - pandas
-  - matplotlib
-  - scipy
   - pip
   - pip:
     - google-api-python-client
