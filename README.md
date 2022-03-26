@@ -2,7 +2,9 @@
 
 [![python](https://img.shields.io/badge/python-grey.svg)](https://www.python.org/)
 
-This is **succo_google_quest**, 
+This is **succo_google_quest**, a set of Python scripts to interact with the Google services through the [Google APIs](https://cloud.google.com/apis?hl=en). In particular,
+- **succo_photos_quest** analyses the content of the user's [Google Photos](https://www.google.com/intl/en/photos/about/) book, providing information on all the albums and on all the photos/videos that aren't included in any album.
+- **succo_mail_quest** allows to create as drafts or send multiple emails iteratively (e.g., to different recipients with custom subjects, bodies, attachments) through [Gmail](https://www.google.com/intl/en/gmail/about/).
 
 Basic dependencies:
 
