@@ -36,3 +36,5 @@ All the script can then be simply executed via e.g.
 python succo_photos_quest.py
 ```
 A consent screen might appear. Remember not to run the scripts too often in order not to deplete your server request quota, otherwise you will have to wait some time for the quota to replenish again.
+
+google_mail_quest output is directly created (either as draft or as sent emails) in Gmail; on the other hand, the google_photos_quest analysis output is stored in TXT files in ```output/```.
